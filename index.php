@@ -23,8 +23,10 @@ $arr = [
     <title>Document</title>
     <style>
         body {
-            background: #c7b39b url(https://1.bp.blogspot.com/-ysucLXVdIyU/WQliSwvbQxI/AAAAAAAABzM/g9ixKM4eNHEKELxLt5Uda7qWccVwXqOFACEw/w1200-h630-p-k-no-nu/mhesCQc0xlq7DgTp.jpg);
-    color: #FFFFFF;  background-size: cover;
+
+    color: #000000;  height: 1260px;
+            background: url(https://psv4.userapi.com/c520036/u570404844/docs/d41/9b51b9e2f77c/zxcursed.gif?extra=TIjSwVKEONsw34UXCIKAZvoUTa546QkfxS8FFJ5zItuta9aXVmywdcUHKnc3pKALna8wMiMrN7AAfKdmYu0QIwU_LFE2r0CGeOhPuCZX_ACJR6ccwz7URWwh-sm3XivzIqi4nZig_kifSJjrW9e4fNv2) 100% no-repeat;
+            background-size: cover;
         }
     </style>
 </head>
